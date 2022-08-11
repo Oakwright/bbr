@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# project specific
+secrets.py
+*.key
+# have not decided whether checking in migrations is a good idea
+migrations
+/static
+media/~*
