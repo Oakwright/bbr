@@ -159,7 +159,7 @@ MEDIA_URL = '/media/'
 
 # Wagtail settings
 
-WAGTAIL_SITE_NAME = "bbrsite"
+WAGTAIL_SITE_NAME = "Bread and Blogs and Roses"
 
 # Search
 # https://docs.wagtail.org/en/stable/topics/search/backends.html
@@ -171,6 +171,6 @@ WAGTAILSEARCH_BACKENDS = {
 
 # Base URL to use when referring to full URLs within the Wagtail admin backend -
 # e.g. in notification emails. Don't include '/admin' or a trailing slash
-BASE_URL = 'http://example.com'
+BASE_URL = 'https://roses.gay'
 
 PUPUT_AS_PLUGIN = True
